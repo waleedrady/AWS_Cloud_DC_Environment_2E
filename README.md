@@ -1,4 +1,4 @@
-# DataCenter Enviroment 2C
+# DataCenter Enviroment 2E
 
 Source Code for this Module (https://github.com/WEEMR/terraform-aws-DataCenter_Enviroment_2E)
 
